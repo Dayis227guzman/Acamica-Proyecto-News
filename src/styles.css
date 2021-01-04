@@ -1,0 +1,26 @@
+body {
+  padding: 30px;
+}
+.fa-newspaper {
+  color: rgb(139, 0, 132);
+}
+.card-img-top {
+  max-height: 200px;
+}
+
+.pagination {
+  justify-content: center;
+  margin: 10px;
+}
+.page-link {
+  cursor: pointer;
+}
+.container-h1 {
+  justify-content: center;
+  text-align: center;
+  color: rgb(139, 0, 132);
+}
+
+.btn {
+  background-color: #670579;
+}
